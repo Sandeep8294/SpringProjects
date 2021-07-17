@@ -1,0 +1,1 @@
+var keycloakurl="http://192.168.45.219:8080/auth/realms/bdb-dev";
